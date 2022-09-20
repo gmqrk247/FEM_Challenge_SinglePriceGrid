@@ -52,7 +52,7 @@ body {
 	color: var(--clr-cyan);
 }
 
-.heading h3 {
+.heading h2 {
 	color: var(--clr-bright-yellow);
 	margin: 1rem auto;
 }
